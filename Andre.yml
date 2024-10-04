@@ -5,5 +5,7 @@
 Ec2Instance:
   Type: AWS::EC2::Instance
   Properties:
-    AvailabilityZone: aa-example-1a
+    AvailabilityZone: us-east-1
     ImageId: ami-1234567890abcdef0
+    #making some changes
+    #ghsotabsjs
